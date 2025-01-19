@@ -26,18 +26,19 @@ const About = () => {
             ))}
           </div>
           <p>
-            Building projects my clients love have always been my passion. Being
-            in the web development industry for over 3 years and serving more
-            than 70 happy clients worldwide, I'm always motivatedd to do more!
+            Crafting seamless and responsive web applications is my passion.
+            With a strong foundation in modern web technologies, I strive to
+            build solutions that are both functional and visually appealing.
           </p>
           <p>
-            Hi, my name is Christine from New York, USA. I'm a full-stack web
-            developer with a Bachelors degree in Computer Science. My top
-            priority is to get your business online the right way, giving you
-            industry-standard design and all the functionality you need to
-            operate smoothly online. Get in touch with the details of your
-            project and let's get started! Check out my resume below!
+            Hi, my name is Sadam Muneer, a dedicated full-stack web developer
+            with a Bachelor's degree in Computer Science. My focus is on
+            creating scalable, user-friendly applications tailored to meet your
+            needs. Whether it's developing from scratch or enhancing existing
+            projects, I am ready to turn your ideas into reality. Let's
+            collaborate and make something amazing together!
           </p>
+
           <a href={CV} download className="btn primary">
             Download CV <HiDownload />
           </a>

@@ -1,32 +1,32 @@
-import { SiAdobexd } from "react-icons/si";
 import { RiReactjsLine } from "react-icons/ri";
 import { FaServer } from "react-icons/fa";
-import { AiFillAppstore } from "react-icons/ai";
+import { AiOutlineCloud } from "react-icons/ai";
+import { SiMongodb } from "react-icons/si";
 
 const data = [
   {
     id: 1,
-    icon: <SiAdobexd />,
-    title: "UI/UX Design",
-    desc: "My designs are modern and intuitive. I use industry-standard rules to make sure your users have fun using your product.",
+    icon: <RiReactjsLine />,
+    title: "Frontend Development",
+    desc: "Crafting dynamic and interactive user interfaces with React.js, ensuring a seamless user experience across all platforms.",
   },
   {
     id: 2,
-    icon: <RiReactjsLine />,
-    title: "Frontend Development",
-    desc: "Your product will look good and will be accessible on all devices, including mobile phones, tablets, and desktop.",
+    icon: <FaServer />,
+    title: "Backend Development",
+    desc: "Building secure, efficient, and scalable server-side applications with Node.js and Express.js tailored to your project's needs.",
   },
   {
     id: 3,
-    icon: <FaServer />,
-    title: "Backend Development",
-    desc: "The security of your business/product is taken seriously right from the start of the project. I will make sure your website/app is secure from attacks.",
+    icon: <SiMongodb />,
+    title: "Database Management",
+    desc: "Expertise in designing and managing databases with MongoDB, ensuring data integrity and optimized performance.",
   },
   {
     id: 4,
-    icon: <AiFillAppstore />,
-    title: "App Development",
-    desc: "Unlike other developers in the market, I will building an app that runs on both IOS and Android devices without any extra cost to you.",
+    icon: <AiOutlineCloud />,
+    title: "Cloud Deployment",
+    desc: "Proficient in deploying applications on Vercel, Netlify, and Cloudflare Pages. Currently exploring and learning AWS for advanced cloud solutions.",
   },
 ];
 

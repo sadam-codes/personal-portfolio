@@ -31,9 +31,10 @@ const Header = () => {
           <h1>Fullstack Web Developer</h1>
           <h3>Hi, I'm Sadam Muneer</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos aliquam
-            aperiam facere quam laudantium voluptas quaerat! Ducimus numquam ex
-            quam velit voluptas architecto.
+            Welcome to my portfolio! I specialize in building dynamic and
+            responsive web applications. With expertise in both frontend and
+            backend development, I create solutions that are efficient,
+            scalable, and user-friendly. Let's bring your ideas to life!
           </p>
           <a href="#contact" className="btn primary">
             Let's Talk

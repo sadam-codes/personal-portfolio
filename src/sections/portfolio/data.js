@@ -16,7 +16,7 @@ const data = [
     title: "Project Title One (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const data = [
     title: "Project Title Three (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ const data = [
     title: "Project Title Four (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ const data = [
     title: "Project Title Five (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
   {
     id: 6,
@@ -61,7 +61,7 @@ const data = [
     title: "Project Title Six (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
   {
     id: 7,
@@ -70,7 +70,7 @@ const data = [
     title: "Project Title Seven (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
   {
     id: 8,
@@ -79,7 +79,7 @@ const data = [
     title: "Project Title Eight (Backend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
   {
     id: 9,
@@ -88,7 +88,7 @@ const data = [
     title: "Project Title Nine (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    github: "https://github.com/sadam-codes/",
   },
 ];
 

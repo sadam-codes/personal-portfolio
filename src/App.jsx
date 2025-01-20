@@ -45,7 +45,7 @@ const App = () => {
 
     // cleanup function
     return () => clearInterval(checkYPosition);
-  }, [siteYPostion]);
+  });
 
   return (
     <main

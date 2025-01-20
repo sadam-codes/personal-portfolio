@@ -21,7 +21,7 @@ export const ThemeProvider = ({ children }) => {
   // save theme settings to local storage
   useEffect(() => {
     localStorage.setItem("themeSettings", JSON.stringify(themeState));
-  }, [themeState.primary, themeState.background]);
+  });
 
   return (
     <ThemeContext.Provider value={{ themeState, themeHandler }}>

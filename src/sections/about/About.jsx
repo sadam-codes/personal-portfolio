@@ -1,4 +1,4 @@
-import AboutImage from "../../assets/sadam.jpeg";
+import Aboutpic from "../../assets/sadam.jpeg";
 import CV from "../../assets/SadamMuneer.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
@@ -11,7 +11,7 @@ const About = () => {
       <div className="container about__container" data-aos="fade-in">
         <div className="about__left">
           <div className="about__portrait">
-            <img src={AboutImage} alt="About Image" />
+            <img src={Aboutpic} alt="About" />
           </div>
         </div>
         <div className="about__right">

@@ -2,7 +2,7 @@
   width: fit-content;
   display: flex;
   justify-content: center;
-  gap: 3rem;
+  gap: 2rem;
 }
 
 .contact__container a {
@@ -27,6 +27,6 @@
 /* MEDIA QUERIES (phones) */
 @media screen and (max-width: 600px) {
   .contact__container {
-    gap: 1.5rem;
+    gap: 1rem;
   }
 }

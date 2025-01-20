@@ -24,8 +24,8 @@ const data = [
     image: Image2,
     title: "Project Title Two (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "https://mylandingpages.vercel.app",
+    github: "https://github.com/sadam-codes/Landing-pages",
   },
   {
     id: 3,

@@ -1,5 +1,5 @@
 import AboutImage from "../../assets/sadam.jpeg";
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/SadamMuneer.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";

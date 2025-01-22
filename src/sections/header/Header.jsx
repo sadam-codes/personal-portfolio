@@ -56,7 +56,7 @@ const Header = () => {
             </span>
           </div>
           <div className="inner__circle">
-            <img src={HeaderImage} alt="Header Portrait" />
+            <img src={HeaderImage} alt="Header Portrait" loading="lazy" />
           </div>
         </div>
       </div>

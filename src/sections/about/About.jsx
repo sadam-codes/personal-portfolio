@@ -11,7 +11,7 @@ const About = () => {
       <div className="container about__container" data-aos="fade-in">
         <div className="about__left">
           <div className="about__portrait">
-            <img src={Aboutpic} alt="About" loading="lazy"/>
+            <img src={Aboutpic} alt="About" loading="lazy" />
           </div>
         </div>
         <div className="about__right">

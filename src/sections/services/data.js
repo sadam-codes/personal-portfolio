@@ -14,7 +14,7 @@ const data = [
     id: 2,
     icon: <FaServer />,
     title: "Backend Development",
-    desc: "Building secure, efficient, and scalable server-side applications with Node.js and Express.js tailored to your project's needs.",
+    desc: "Building secure, and scalable server-side applications with Node.js and Express.js tailored to your project's needs.",
   },
   {
     id: 3,

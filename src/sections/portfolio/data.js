@@ -63,33 +63,6 @@ const data = [
     demo: "http://egatortutorials.com",
     github: "https://github.com/sadam-codes/",
   },
-  {
-    id: 7,
-    category: "Front-End",
-    image: Image7,
-    title: "Project Title Seven (Frontend)",
-    desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/sadam-codes/",
-  },
-  {
-    id: 8,
-    category: "Back-End",
-    image: Image8,
-    title: "Project Title Eight (Backend)",
-    desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/sadam-codes/",
-  },
-  {
-    id: 9,
-    category: "Front-End",
-    image: Image9,
-    title: "Project Title Nine (Frontend)",
-    desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/sadam-codes/",
-  },
 ];
 
 export default data;

@@ -31,7 +31,7 @@ const About = () => {
             build solutions that are both functional and visually appealing.
           </p>
           <p>
-            Hi, my name is Sadam Muneer, a dedicated full-stack web developer
+            Hi, my name is Sadam Muneer, the full-stack web developer
             with a Bachelor's degree in Computer Science. My focus is on
             creating scalable, user-friendly applications tailored to meet your
             needs. Whether it's developing from scratch or enhancing existing

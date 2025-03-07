@@ -20,7 +20,7 @@ const data = [
     id: 3,
     icon: <SiMongodb />,
     title: "Database Management",
-    desc: "Expertise in designing and managing databases with MongoDB, ensuring data integrity and optimized performance.",
+    desc: "Expertise in designing and managing databases with MongoDB, ensuring data integrity and optimized performance with indexing.",
   },
   {
     id: 4,
@@ -29,5 +29,4 @@ const data = [
     desc: "Proficient in deploying applications on Vercel, Netlify, and Cloudflare Pages. Currently exploring and learning AWS for advanced cloud solutions.",
   },
 ];
-
 export default data;
